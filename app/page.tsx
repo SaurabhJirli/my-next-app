@@ -1,7 +1,7 @@
 import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { Mail, Code2 } from "lucide-react"
+import { Github, Mail } from "lucide-react"
 
 export default function Home() {
   return (
@@ -48,7 +48,7 @@ export default function Home() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <Code2 className="h-4 w-4" />
+                  <Github className="h-4 w-4" />
                 </a>
               </Button>
             </div>
