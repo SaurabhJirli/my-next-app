@@ -13,7 +13,6 @@ import { Github, Mail } from "lucide-react"
 
 export default function Home() {
   return (
-<<<<<<< HEAD
     <main className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-slate-100 flex items-center justify-center px-4">
       <div className="max-w-4xl w-full">
         <Card className="border border-slate-800 bg-slate-900/70 backdrop-blur-xl shadow-2xl">
@@ -116,12 +115,5 @@ export default function Home() {
       </div>
     </main>
   )
-=======
-    <main>
-      <h1>Hey, I’m Saurabh 👋</h1>
-      <p>Site is live, more coming soon.</p>
-    </main>
-  );
->>>>>>> f0b0d83769e5372a8fd4cb066466a30a3066dfcf
 }
 
