@@ -34,7 +34,7 @@ export default function Home() {
             <div className="flex items-center gap-3">
               <Button asChild>
                 <a
-                  href="mailto:saurabhrj2001@gmail.com"
+                  href="saurabhrj2001@gmail.com"
                   className="flex items-center gap-2"
                 >
                   <Mail className="h-4 w-4" />
